@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    align-items: center;
+    margin-bottom: 60px;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #424247;
+}
+.travel-color{
+    color: red;
+}
+.nav-style{
+color: #131318;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.explor{
+   
+    width:1170px ;
+    height: 500px;
+    background-image: url(./Images/Group\ 13\ \(1\)\ \(1\).png);
+    ;
+    background-repeat: no-repeat;
+    background-image: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.explor-para{
+    color: #FFF;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.shadow{
+    background: rgba(255, 255, 255, 0.30);
+    padding: 16px;
+    display: inline-flex;
+    gap: 20px;
+    
+}
+.shadow{
+   margin: 0 auto;
+}
+
+.explor-title{
+    padding: 106px 287px;
+    color: #FFF;
+    font-family: Mulish;
+font-size: 64px;
+}
+.btn-primary{
+    padding: 10px;
+    background-color: #FF5400;
+    color: #FFF;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+border-style: none;
+}

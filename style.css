@@ -55,6 +55,7 @@ font-style: normal;
 font-weight: 400;
 }
 
+
 .shadow{
     background: rgba(255, 255, 255, 0.30);
     padding: 16px;
@@ -84,3 +85,9 @@ font-family: Mulish;
 font-size: 16px;
 border-style: none;
 }
+input{
+    padding: 18px;
+}
+/* one section end */
+
+

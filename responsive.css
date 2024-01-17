@@ -78,5 +78,13 @@ line-height: 24px;
     width: 100%;
 }
 
+.sectionList{
+    padding: 5px;
+}
+.sectionList li{
+    margin-bottom: 0px;
+  
+}
+
   
   }

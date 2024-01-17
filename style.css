@@ -99,6 +99,9 @@ input{
     padding: 100px;
     align-items: center;
 }
+.sideSection{
+    padding: 10px;
+}
 .sectionHeadline{
     color: #131318;
 margin-bottom: 21px;

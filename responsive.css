@@ -48,6 +48,7 @@ font-size: 14px;
 
 .mainSection{
    flex-direction: column;
+   padding: 50px;
 }
 .sectionHeadline{
     color: #131318;

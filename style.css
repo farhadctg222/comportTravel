@@ -67,7 +67,9 @@ font-weight: 400;
 }
 
 .explor-title{
-    padding: 106px 287px;
+    padding-top: 106px;
+    padding-left: 287px;
+    padding-right: 287px;
     color: #FFF;
     font-family: Mulish;
 font-size: 64px;

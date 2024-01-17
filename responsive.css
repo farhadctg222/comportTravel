@@ -14,13 +14,27 @@
     .hide{
         display: block;
     }
+    .explor-title{
+      padding: 32px 66px;
+    font-size: 22px;
+    text-align: center;
+    }
+    .explor-para{
+        color: #FFF;
+
+text-align: center;
+font-family: Mulish;
+font-size: 14px;
+    }
     .explor{
-        width: 335px;
+        width: 100%;
         margin: 0 auto;
         height: 483px;
-      background-image: url('./Images/Group\ 13\ \(1\)\ \(1\).png');
-      background-size: cover contain;
+        border-radius: 16px;
        
     }
+   .shadow{
+    flex-direction: column;
+   }
   
   }

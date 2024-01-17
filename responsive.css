@@ -34,7 +34,7 @@ font-size: 14px;
         background-position: center;
        
     }
-   .shadow{
+   .shadow .mainSection{
     flex-direction: column;
    }
    .shadow input{
@@ -44,5 +44,9 @@ font-size: 14px;
     padding: 13px;
    }
    /* responsive end */
+
+
+
+
   
   }

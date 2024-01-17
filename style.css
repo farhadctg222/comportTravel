@@ -95,7 +95,7 @@ input{
 
 .mainSection{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 100px;
     align-items: center;
 }

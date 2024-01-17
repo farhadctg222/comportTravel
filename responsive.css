@@ -28,13 +28,19 @@ font-size: 14px;
     }
     .explor{
         width: 100%;
-        margin: 0 auto;
+        margin: 30px auto;
         height: 483px;
         border-radius: 16px;
+        background-position: center;
        
     }
    .shadow{
     flex-direction: column;
+   }
+   .shadow input{
+    height: 30px;
+    outline: none;
+    border-style: none;
    }
   
   }

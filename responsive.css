@@ -1,15 +1,26 @@
-@media screen and (max-width:600px) {
+@media  screen and (max-width:600px) {
+   
     nav{
-        flex-direction: column;
-     
-
+       
+        margin-bottom: 0;
+        justify-content: space-around;
         
     }
-    nav h3{
+    .nav-style{
+        font-size: 21px;    }
+    ul li{
+        display: none;
+    }
+    .hide{
         display: block;
     }
-    ul{
-       flex-direction: column;
+    .explor{
+        width: 335px;
+        margin: 0 auto;
+        height: 483px;
+      background-image: url('./Images/Group\ 13\ \(1\)\ \(1\).png');
+      background-size: cover contain;
+       
     }
-    
-}
+  
+  }

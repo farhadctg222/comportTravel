@@ -10,6 +10,9 @@ nav{
     align-items: center;
     margin-bottom: 60px;
 }
+.hide{
+    display: none;
+}
 nav ul{
     display: flex;
 }

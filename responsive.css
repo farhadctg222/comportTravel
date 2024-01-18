@@ -107,6 +107,9 @@ line-height: 24px;
 .imagegrid img{
     width: 100%;
 }
+.imagegrid{
+    margin: 0 2px;
+}
 .row1, .row2, .row3{
     display: grid;
     grid-template-columns: repeat(1,1fr);

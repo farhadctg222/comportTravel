@@ -4,11 +4,13 @@
     box-sizing: border-box;
 }
 nav{
+    margin-top: 10px;
     display: flex;
     justify-content: space-around;
    
     align-items: center;
     margin-bottom: 60px;
+   
 }
 .hide{
     display: none;
@@ -248,7 +250,7 @@ line-height: normal;
 /* ----------------- */
 
 .newslateContiner{
-    border: 1px solid gold;
+    
     border-radius: 5px;
     display: flex;
     justify-content: space-around;

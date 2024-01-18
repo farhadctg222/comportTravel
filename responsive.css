@@ -86,5 +86,30 @@ line-height: 24px;
   
 }
 
+/* new responsive section start */
+
+
+.destination{
+    text-align: center;
+font-family: Mulish;
+font-size: 20px;
+}
+.destinationPara{
+    color: rgba(19, 19, 24, 0.70);
+
+text-align: center;
+font-family: Mulish;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+.imagegrid img{
+    width: 100%;
+}
+.row1, .row2, .row3{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
   
   }

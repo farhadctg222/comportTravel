@@ -142,5 +142,38 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px; 
 }
+
+
+/* new section responsive start */
+
+.newslateContiner{
+    flex-direction: column;
+    margin: 23px 9px;
+}
+.newsLater{
+    width: 100%;
+    border: 1px solid #FF5400;
+    margin-bottom: 10px;
+}
+.newsLaterImage{
+    width: 100%;
+}
+.discount{
+    width: 214.023px;
+height: 79.268px;
+transform: rotate(-19.628deg);
+bottom: 35px;
+left: 104px;
+
+}
+.discount h3{
+    color: #FFF;
+
+font-family: Mulish;
+font-size: 21.138px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
   
   }

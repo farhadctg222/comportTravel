@@ -326,3 +326,36 @@ line-height: normal;
     bottom: 52px;
     left: 200px;
 }
+
+/* ------------new section start */
+
+
+.foterSection{
+    width: 100%;
+    height: 502px;
+    background-color: rgba(51, 51, 70, 0.05);
+    text-align: center;
+
+}
+.foterSection .headerHeadline{
+    
+   padding-top: 150px;
+   padding-bottom: 10px;
+}
+.color{
+    color: #FF5400;
+}
+.para{
+    padding-bottom: 15px;
+    color: #5A5A5D;
+}
+.fa-brands{
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+hr{
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}

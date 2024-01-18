@@ -169,6 +169,7 @@ transform: rotate(-19.628deg);
 bottom: 35px;
 left: 104px;
 
+
 }
 .discount h3{
     color: #FFF;
@@ -180,4 +181,10 @@ font-weight: 800;
 line-height: normal;
 }
   
+
+/* ----------responsive start */
+
+hr{
+    width: 100%;
+}
   }
